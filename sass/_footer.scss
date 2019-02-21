@@ -1,0 +1,27 @@
+.footer-logo {
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center; // по центру оси
+}
+.footer-logo-element {
+  padding: 70px 30px;
+}
+
+.footer-text {
+  margin: auto;
+  display: block;
+  justify-content: center;
+  align-content: center;
+  max-width: 250px;
+  text-align: center;
+  padding: 50px;
+}
+.footer-text-end {
+  display: flex;
+  justify-content: center;
+
+
+}

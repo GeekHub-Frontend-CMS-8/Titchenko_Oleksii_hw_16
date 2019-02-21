@@ -1,0 +1,62 @@
+
+.nav-menu_ul_2 {
+  background: royalblue;
+}
+.nav-menu_ul_3 {
+  background: greenyellow;
+}
+nav {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: #362f2f;
+}
+.nav-menu *{
+  margin: 0;
+  padding: 0;
+  color: #362f2f;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  /* Text style for "Editorial" */
+  letter-spacing: 1.2px;
+}
+.nav-menu a:hover {
+  color: #c3a000 ;
+  transition: all 0.3s ease;
+}
+.nav-menu a {
+  transition: all 0.3s ease;
+}
+.nav-menu_ul_1 {
+  display: flex;
+  }
+.nav-menu_ul_1_li> a{
+  display: block;
+  background: aquamarine;
+  font-size: 12px;
+  padding: 20px;
+  //position: relative;
+}
+.nav-menu_ul_2 {
+  position: absolute;
+  min-width: 120px;
+  text-align: left;
+  padding-left: 15px;
+  display: none;
+}
+.nav-menu_ul_3 {
+  position: absolute;
+  right: -90px;
+  padding-left: 15px;
+  display: none;
+}
+.nav-menu_ul_1:hover .nav-menu_ul_2 {
+  display: block;
+}
+.nav-menu_ul_2_li_4:hover .nav-menu_ul_3 {
+  display: block;
+  position: relative;
+  top: -40 px;
+}

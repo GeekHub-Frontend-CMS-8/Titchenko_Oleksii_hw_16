@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25e770f9-33fb-4905-8192-2635ea0915e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sass/_bottom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_navMenu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/about-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/diploma 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/diploma2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/happy-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/jobs-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/line-wavy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/line.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about/reviews-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog-image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/blog-image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home/icon-behance.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home/icon-facebook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home/icon-twitter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home/left.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home/line.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home/linea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home/logo-atlantida.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home/right@3x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/looking/kompass-grey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/looking/kompass.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/our-time/bg-our-time.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/our-time/gorizont-line.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/our-time/miss-Jilia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/our-time/miss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/our-time/mister.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/1-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/1_2-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/2-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/2_2-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/3-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/3_2-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/4-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/5-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/5_2-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/6-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/6_2-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/6_3-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/7-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/8-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prices/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prices/line-Divider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/analitics-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/background-services.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/background-services.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/display.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/lampochka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/line-wavy-light.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/services/wordpress-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_about-level.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_about.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_blog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_history.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_looking.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_our-time.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_portfolio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_portfolio.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_prices.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_services.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_timeline.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_timeline2.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/_header.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4114">
+              <caret line="242" column="5" selection-start-line="242" selection-start-column="5" selection-end-line="242" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/_portfolio.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/_bottom.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1887">
+              <caret line="111" column="1" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sass/_navMenu.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/_global.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sass/hero.scss" />
+        <option value="$PROJECT_DIR$/_first-section.scss" />
+        <option value="$PROJECT_DIR$/_variables.scss" />
+        <option value="$PROJECT_DIR$/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/sass/_first-section.scss" />
+        <option value="$PROJECT_DIR$/_top-section.scss" />
+        <option value="$PROJECT_DIR$/sass/_slider-section-1.scss" />
+        <option value="$PROJECT_DIR$/_sliderCSS.scss" />
+        <option value="$PROJECT_DIR$/sass/_sliderCSS.scss" />
+        <option value="$PROJECT_DIR$/services.html" />
+        <option value="$PROJECT_DIR$/sass/_services.scss" />
+        <option value="$PROJECT_DIR$/_about.scss" />
+        <option value="$PROJECT_DIR$/_services.html" />
+        <option value="$PROJECT_DIR$/sass/_work.scss" />
+        <option value="$PROJECT_DIR$/sass/_contact.html" />
+        <option value="$PROJECT_DIR$/_work.html" />
+        <option value="$PROJECT_DIR$/_contact.html" />
+        <option value="$PROJECT_DIR$/_about.html" />
+        <option value="$PROJECT_DIR$/_footer.scss" />
+        <option value="$PROJECT_DIR$/sass/_contacts.scss" />
+        <option value="$PROJECT_DIR$/_contacts.html" />
+        <option value="$PROJECT_DIR$/sass/_top-section.scss" />
+        <option value="$PROJECT_DIR$/sass/_about.scss" />
+        <option value="$PROJECT_DIR$/sass/_home.scss" />
+        <option value="$PROJECT_DIR$/sass/_footer.scss" />
+        <option value="$PROJECT_DIR$/sass/_global.scss" />
+        <option value="$PROJECT_DIR$/sass/_bottom.scss" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/sass/style.scss" />
+        <option value="$PROJECT_DIR$/sass/_portfolio.scss" />
+        <option value="$PROJECT_DIR$/sass/_header.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/sass/_navMenu.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="21" />
+    <option name="width" value="1440" />
+    <option name="height" value="819" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/HwFinal/project-template" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GeekHub\Lesson16\app\sass" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25e770f9-33fb-4905-8192-2635ea0915e4" name="Default Changelist" comment="" />
+      <created>1543068354178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543068354178</updated>
+      <workItem from="1543068355562" duration="157000" />
+      <workItem from="1544973835368" duration="17368000" />
+      <workItem from="1545033161685" duration="7542000" />
+      <workItem from="1545062948302" duration="19624000" />
+      <workItem from="1545115195317" duration="11601000" />
+      <workItem from="1545144506900" duration="14693000" />
+      <workItem from="1545202404970" duration="12389000" />
+      <workItem from="1545251022073" duration="5854000" />
+      <workItem from="1545302389390" duration="26881000" />
+      <workItem from="1545394085087" duration="17964000" />
+      <workItem from="1545465293422" duration="6502000" />
+      <workItem from="1550437012845" duration="8889000" />
+      <workItem from="1550497055870" duration="47347000" />
+      <workItem from="1550674571850" duration="13562000" />
+      <workItem from="1550735051508" duration="15771000" />
+      <workItem from="1550769075994" duration="639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="226783000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31904763" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.36656442" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32964224" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_first-section.scss" />
+    <entry file="file://$PROJECT_DIR$/_variables.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/_variables.scss" />
+    <entry file="file://$PROJECT_DIR$/_top-section.scss" />
+    <entry file="file://$PROJECT_DIR$/_sliderCSS.scss" />
+    <entry file="file://$USER_HOME$/Downloads/Acrostia/Acrostia/css/styleAcrostia.css" />
+    <entry file="file://$USER_HOME$/Downloads/Acrostia/Acrostia/Acrostia.html" />
+    <entry file="file://$PROJECT_DIR$/sass/_sliderCSS.scss" />
+    <entry file="file://$PROJECT_DIR$/_about.scss" />
+    <entry file="file://$PROJECT_DIR$/../node_modules/gulp-sass/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="126" column="15" selection-start-line="126" selection-start-column="15" selection-end-line="126" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../node_modules/node-sass/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="293" column="31" selection-start-line="293" selection-start-column="31" selection-end-line="293" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_services.html" />
+    <entry file="file://$PROJECT_DIR$/sass/_services.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/_contact.html" />
+    <entry file="file://$PROJECT_DIR$/_work.html" />
+    <entry file="file://$PROJECT_DIR$/sass/_slider-section-1.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/_work.scss" />
+    <entry file="file://$PROJECT_DIR$/_footer.scss" />
+    <entry file="file://$PROJECT_DIR$/_contacts.html" />
+    <entry file="file://$PROJECT_DIR$/sass/_top-section.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/_contacts.scss" />
+    <entry file="file://$PROJECT_DIR$/_about.html" />
+    <entry file="file://$PROJECT_DIR$/sass/_home.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/_about.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../node_modules/through2/node_modules/readable-stream/lib/_stream_writable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4114">
+          <caret line="242" column="5" selection-start-line="242" selection-start-column="5" selection-end-line="242" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_portfolio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_bottom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="111" column="1" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_navMenu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

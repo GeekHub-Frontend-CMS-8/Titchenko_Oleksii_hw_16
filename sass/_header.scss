@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  .header-gamburger-menu {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+  }
+  .button-gumburger-menu {
+    background-color: #ffffff;
+    border: none;
+  }
+  .heder-social-menu {
+    display: inline-flex;
+    flex-direction: row;
+  }
+}
+
+li {
+  list-style-type:none;
+}
+.fa {
+  padding: 8px;
+}
