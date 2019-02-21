@@ -1,0 +1,27 @@
+
+ .galleryOne {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+   margin: auto;
+}
+.galleryOne-foto {
+  padding: 10px 10px;
+  margin: auto;
+}
+.button-galleryOne {
+  float: right;
+  margin-right: 10px;
+  background: #362f2f;
+  color: #fff;
+}
+ .galleryOne-foto:hover {
+   background: #ffffff;
+  // opacity: 0.5;
+   transform: scale(2);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   align-content: center;
+   margin: auto;
+ }
