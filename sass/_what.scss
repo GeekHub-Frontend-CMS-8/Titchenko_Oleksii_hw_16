@@ -1,0 +1,31 @@
+.what-section {
+  background: url("../img/what/bg-what.jpg") no-repeat;
+  background-size: contain;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+.fa-play-circle {
+  color: #fe504f;
+  padding-top: 90px;
+}
+.what-title {
+  max-width: 837px;
+  color: #ffffff;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 58px;
+  text-transform: uppercase;
+  text-align: center;
+  margin: auto;
+  padding: 30px;
+}
+.what-paragraph {
+  max-width: 1000px;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin: auto;
+  padding-bottom: 85px;
+}

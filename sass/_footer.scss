@@ -1,27 +1,25 @@
-.footer-logo {
-  margin: auto;
+
+footer{
+  background-color: #343434;
+
+  width: 100%;
+}
+.footer-container {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center; // по центру оси
+  justify-content: space-between;
+  padding: 45px;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 20px;
+  text-transform: uppercase;
 }
-.footer-logo-element {
-  padding: 70px 30px;
+.footer-social-icon {
+  color: #fe504f;
+  border-right: 1px solid #fe504f ;
+  padding: 5px;
 }
-
-.footer-text {
-  margin: auto;
-  display: block;
-  justify-content: center;
-  align-content: center;
-  max-width: 250px;
-  text-align: center;
-  padding: 50px;
-}
-.footer-text-end {
-  display: flex;
-  justify-content: center;
-
-
+.fa-youtube {
+  border: none;
 }

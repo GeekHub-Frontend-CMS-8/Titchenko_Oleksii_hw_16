@@ -1,0 +1,21 @@
+.team-gallery-wrap {
+  margin: auto;
+  padding-bottom: 35px;
+}
+ .team-foto {
+  margin: -3px; //убираем рамку border:none не сработал
+ }
+.team-foto:hover {
+  opacity: 0.2 ;
+  .team-foto :after {
+    content: "Новьё!"; /* Добавляемый текст */
+    color: #fe504f; /* Цвет текста */
+    background-color: #fe504f; /* Цвет фона */
+    font-size: 90%; /* Размер шрифта */
+    padding: 2px; /* Поля вокруг текста */
+    opacity: 0.8 ;
+  }
+
+
+
+}

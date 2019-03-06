@@ -1,26 +1,69 @@
-.header {
+header {
+  background-image: url("../img/header/bg_header.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: auto;
+  height: 100vh;
+
+}
+.header-head {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-
-  .header-gamburger-menu {
-    width: 50px;
-    height: 50px;
-    padding: 10px;
-  }
-  .button-gumburger-menu {
-    background-color: #ffffff;
-    border: none;
-  }
-  .heder-social-menu {
-    display: inline-flex;
-    flex-direction: row;
-  }
+  align-items: baseline;
+  padding-top: 70px;
 }
-
-li {
-  list-style-type:none;
+.header-logo {
+  color: #fe504f;
+  font-family: Arial, sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 32px;
+  text-transform: uppercase;
+  letter-spacing: -1.28px;
 }
-.fa {
-  padding: 8px;
+.header-menu {
+  display: inline-flex;
+}
+.header-menu-element {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 32px;
+  text-transform: uppercase;
+  padding: 15px;
+}
+.header-menu-element:hover {
+  border-bottom: 2px solid #fe504f;
+  line-height: .55; //если меньше единицы, можно подтянуть бордер ближе к базовой линии:
+}
+.header-title {
+  color: #ffffff;
+  font-size: 60px;
+  font-weight: 700;
+  max-width: 670px;
+  padding-top: 25px;
+}
+.header-title-text {
+  width: 514px;
+  height: 48px;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  padding: 10px 0px;
+}
+.header-button {
+  width: 210px;
+  height: 60px;
+  background-color: #343434;
+  border-radius: 30px;
+  border: 0;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  margin: 20px 30px 300px 0px;  //как правильно видным низ секции делать?
+}
+.header-button:hover {
+  background-color: #fe504f;
 }

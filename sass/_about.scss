@@ -1,0 +1,28 @@
+.about-wrap {
+  display: inline-flex;
+  flex-direction: row;
+}
+.about-block {
+  display: block;
+  max-width: 50%;
+  text-align: start;
+  //flex-direction: row;
+}
+
+.title-about {
+  padding-top: 10px;
+}
+.about-block-title {
+  color: #fe504f;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 74px;
+  text-transform: uppercase;
+}
+.about-block-text {
+  color: #343434;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: start;
+}

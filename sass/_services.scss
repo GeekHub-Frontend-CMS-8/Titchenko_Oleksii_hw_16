@@ -1,0 +1,29 @@
+.container-services {
+  text-align: center;
+  margin: auto;
+}
+.section-title-text {
+  margin: auto;
+  padding: 25px;
+  max-width: 900px;
+  color: #adadad;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.services-element-wrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: auto;
+  align-content: center;
+}
+.services-element {
+  display: block;
+  width: 24%;
+  padding: 5px;
+  margin-bottom: 15px;
+}
+.services-line {
+  padding: 7px;
+}
